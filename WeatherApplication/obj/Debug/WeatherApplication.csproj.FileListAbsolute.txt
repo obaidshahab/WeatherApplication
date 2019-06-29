@@ -1,0 +1,11 @@
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.exe.config
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.exe
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.pdb
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csprojAssemblyReference.cache
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.CopyComplete
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.exe
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.pdb
+C:\Users\obaid\source\repos\WeatherApplication\WeatherApplication\bin\Debug\Data\City.json
